@@ -1,0 +1,27 @@
+_repo: Oeuvres-completes-de-Charles-Peguy-Oeuvres-de-poesie-tome-6-Le-Mystere-des-Saints-Innocents-L__57506
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Péguy, Charles
+    gutenberg_agent_id: '49150'
+    url: http://www.gutenberg.org/2009/agents/49150
+description: ''
+gutenberg_bookshelf:
+- FR Nouveautés
+- FR Poésie
+gutenberg_issued: '2018-07-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57506'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Oeuvres complètes de Charles Péguy, Oeuvres de poésie (tome 6)
+
+  Le Mystère des Saints Innocents; La tapisserie de sainte
+
+  Geneviève et de Jeanne d''Arc; La tapisserie de Notre-Dame.'
+url: http://www.gutenberg.org/ebooks/57506
